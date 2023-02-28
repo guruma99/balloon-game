@@ -6,4 +6,5 @@
  ex) pop.textContent.includes("P")
 <br><br>
 💡 .classList.contains("") 는 "" 안의 클래스 이름을 가지고 있는지를 판별 할 수 있다.
+<br>
  ex) balloon.classList.add("ok")
